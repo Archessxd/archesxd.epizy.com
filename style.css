@@ -1,0 +1,22 @@
+.tablo {
+    padding-top: 5% ;  
+}
+.github {
+    margin-bottom: 3%;
+}
+body  {
+    background-color: red;
+    background-image: url(img/bg.png);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size:100% 100%;
+    
+    
+}
+.spotify {
+    margin-bottom: 3%;
+}
+.arches {
+    font-size: 70px;
+    font-style: bold;
+}
