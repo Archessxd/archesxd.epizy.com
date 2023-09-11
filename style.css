@@ -1,22 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Carrois+Gothic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
 .tablo {
-    padding-top: 5% ;  
+    padding-top: 2% ;
+    font-family: 'DotGothic16', sans-serif;
+    
+    
 }
 .github {
-    margin-bottom: 3%;
+    width:3rem; 
+    height:3rem;
 }
+
+.ig {
+    width: 4rem;
+    height: 4rem;
+    
+}
+
+.main-div {
+    background-color: white;
+    opacity: 30%;
+}
+
+.yt {
+    width:4rem;
+    height:4rem;
+}
+
 body  {
     background-color: red;
     background-image: url(img/bg.png);
     background-repeat: no-repeat;
     background-attachment:fixed;
     background-size:100% 100%;
-    
+    zoom: 2;
     
 }
+
 .spotify {
-    margin-bottom: 3%;
+    width:3rem;
+    height:3rem;
 }
-.arches {
-    font-size: 70px;
-    font-style: bold;
+.header {
+    font-size: 40px;
+    font-family: 'Carrois Gothic SC', sans-serif;
+    
+}
+
+.header3{
+    font-size: 1rem;
+    font-family: 'Carrois Gothic SC', sans-serif;
 }
